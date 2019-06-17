@@ -1,0 +1,54 @@
+{
+	"id": "a2be36f5-e26f-4af7-b480-aa81da9f89b3",
+	"name": "RFG-DashAPI-KLO-Secured-QA",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://test-rlgy-qa.apigee.net",
+			"enabled": true
+		},
+		{
+			"key": "apikey",
+			"value": "GPhZdpQJL1UFwsq0Q5xjtLvkMZAPmbJa",
+			"enabled": true
+		},
+		{
+			"key": "basepath",
+			"value": "api/v1.2/dashapiv2qa",
+			"enabled": true
+		},
+		{
+			"key": "tokenUrl",
+			"value": "https://realogy.oktapreview.com/oauth2/ausdtpyw647fbrcPi0h7/v1/token",
+			"enabled": true
+		},
+		{
+			"key": "clientId",
+			"value": "0oael8oe1wD4We4NV0h7",
+			"enabled": true
+		},
+		{
+			"key": "clientSecret",
+			"value": "AxvynYMLpHxi_PjSTH5PuzafqLn79E_p0QuygrIZ",
+			"enabled": true
+		},
+		{
+			"key": "scope",
+			"value": "https://btt.realogyfg.com/dashapi",
+			"enabled": true
+		},
+		{
+			"key": "granttype",
+			"value": "client_credentials",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJraWQiOiJXaDFDZ3IyN2g3cm4wWURpVGdMTk1wLUJVRVliMUxudTg2aWgtVkw1T2hnIiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULmktV25fbk5Fc3FxOTFWS3NweHNiQ2VGZGkyeW51cDdqWk9uNTRsa3owbWMiLCJpc3MiOiJodHRwczovL3JlYWxvZ3kub2t0YXByZXZpZXcuY29tL29hdXRoMi9hdXNkdHB5dzY0N2ZicmNQaTBoNyIsImF1ZCI6Imh0dHBzOi8vYnR0LnJlYWxvZ3lmZy5jb20iLCJpYXQiOjE1NTkyMDYyNjAsImV4cCI6MTU1OTIwOTg2MCwiY2lkIjoiMG9hZWw4b2Uxd0Q0V2U0TlYwaDciLCJzY3AiOlsiaHR0cHM6Ly9idHQucmVhbG9neWZnLmNvbS9kYXNoYXBpIl0sInN1YiI6IjBvYWVsOG9lMXdENFdlNE5WMGg3IiwicGh5c2ljYWxEZWxpdmVyeU9mZmljZU5hbWUiOiIiLCJleHRlbnNpb25BdHRyaWJ1dGUyIjoiIiwibWFpbCI6IiIsInNBTUFjY291bnROYW1lIjoiIiwiZGVzY3JpcHRpb24iOiIiLCJVc2VyU2VjdXJpdHlHcm91cHMiOiIiLCJlbXBsb3llZUlEIjoiIiwidXNlcmlkIjoiIiwiZXh0ZW5zaW9uQXR0cmlidXRlOSI6IiIsIm9yZ2lkIjoiMDBvNmI5dGpqbHU3cWlrd0IwaDciLCJlbXBsb3llZVR5cGUiOiIiLCJleHRlbnNpb25BdHRyaWJ1dGUxMCI6IiJ9.ffTh44GG1SGKt6071ldWMwvJy-FIvhmRcuI_4Yvvcpf0HU69SsswqSLqepNog9AkqLf6SPPmnFOw8HE6OAj6-DADe2N5M3D--Fsneq_2VFi2x_Y_6pQGh-ojJIN9e5U6kmokNJcDaxkRJb0qnLnWQ_Wvm2gOz0j17KZvRuHblVIDeLRh7G_7TKzjANC8_K4BFmQB_XWnl66gUvJ2_OKTsMwhkSeneBreUPULB9T_poEME_-IDvkT2CAMRLGkJ0L_pG5YeIFSPB-u0tp8IeaPsuEpyDLIu2SLhd3biVFEDW0egFdJXgbEaGpymXBJ0CdZ4x7W_2lS-RxRE0emycXPyw",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-05-30T08:57:46.443Z",
+	"_postman_exported_using": "Postman/7.1.1"
+}
